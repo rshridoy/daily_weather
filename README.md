@@ -1,5 +1,3 @@
-# daily_weather
-
 # Weather Web Application
 
 This project is a simple weather web application that fetches and displays weather data using the WeatherAPI. The application allows users to search for the current weather and a 3-day forecast for any location.
